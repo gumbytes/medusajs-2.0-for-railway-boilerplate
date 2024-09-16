@@ -21,7 +21,6 @@ const Hero = () => {
         </span>
         <a
           href="/store"
-          target="_blank"
         >
           <h1 style={{ textDecoration: "underline" }}>
             Explore our collections
