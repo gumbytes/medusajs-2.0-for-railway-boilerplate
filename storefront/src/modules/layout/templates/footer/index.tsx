@@ -18,7 +18,7 @@ export default async function Footer() {
               href="/"
               className="txt-compact-xlarge-plus text-ui-fg-subtle hover:text-ui-fg-base uppercase"
             >
-              GeeksGenes Store
+              Melan Commerce
             </LocalizedClientLink>
           </div>
           <div className="text-small-regular gap-10 md:gap-x-16 grid grid-cols-2 sm:grid-cols-3">
@@ -121,22 +121,22 @@ export default async function Footer() {
                 </li>
                 <li>
                   <a
-                    href="https://docs.medusajs.com"
+                    href="mailto:askme@melancompany.com"
                     target="_blank"
                     rel="noreferrer"
                     className="hover:text-ui-fg-base"
                   >
-                    Documentation
+                    E-mail
                   </a>
                 </li>
                 <li>
                   <a
-                    href="https://github.com/medusajs/nextjs-starter-medusa"
+                    href="tel:601162252454"
                     target="_blank"
                     rel="noreferrer"
                     className="hover:text-ui-fg-base"
                   >
-                    Source code
+                    Call Us
                   </a>
                 </li>
               </ul>
@@ -145,7 +145,7 @@ export default async function Footer() {
         </div>
         <div className="flex w-full mb-16 justify-between text-ui-fg-muted">
           <Text className="txt-compact-small">
-            © {new Date().getFullYear()} GeeksGenes Store. All rights reserved.
+            © {new Date().getFullYear()} Melan Commerce Store. All rights reserved.
           </Text>
           <MedusaCTA />
         </div>

@@ -7,7 +7,7 @@ const MedusaCTA = () => {
   return (
     <Text className="flex gap-x-2 txt-compact-small-plus items-center">
     Powered by
-    <a href="https://gumbytes.com" target="_blank" rel="noreferrer" className="text-blue-500">
+    <a href="https://gumbytes.com" target="_blank" rel="noreferrer">
       Gumbytes Technologies
     </a>
   </Text>
