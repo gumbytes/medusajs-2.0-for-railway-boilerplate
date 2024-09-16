@@ -10,20 +10,21 @@ const Hero = () => {
             level="h1"
             className="text-3xl leading-10 text-ui-fg-base font-normal"
           >
-           Welcome to MELAN – Your Destination for Premium Shopping!
+            Well done! You have successfully deployed your Medusa 2.0 store on Railway!
           </Heading>
           <Heading
             level="h2"
             className="text-3xl leading-10 text-ui-fg-subtle font-normal"
           >
-            We're excited to have you here!
+            Need help customizing your store?
           </Heading>
         </span>
         <a
-          href="/store"
+          href="https://funkyton.com/medusajs-2-0-is-finally-here/"
+          target="_blank"
         >
           <h1 style={{ textDecoration: "underline" }}>
-            Explore our collections
+            Visit the tutorial
           </h1>
         </a>
       </div>
